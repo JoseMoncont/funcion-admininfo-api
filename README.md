@@ -12,7 +12,9 @@ URI's:
 https://us-central1-funcion-admininfo.cloudfunctions.net/app
 
 Get-Put: api/trabajadores
+
 Delete: api/trabajadores/id  
+
 
 Desde postman:
 

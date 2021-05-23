@@ -14,7 +14,9 @@ admin.initializeApp({
 
 app.use(cors({ origin: true }));
 
-
+app.get("/", (req, res) => {
+    return res.status(200).json({ message: "Bienvenido!. Go to .../app/api/trabajadores" });
+  });
 
 // Routes
 app.use(require("./routes/trabajadores.routes"));

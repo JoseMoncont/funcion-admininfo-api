@@ -9,7 +9,7 @@ Métodos: Get, Put, Delete
 
 URI's:
 
-https://us-central1-funcion-admininfo.cloudfunctions.net/app
+Link Despliegue: https://us-central1-funcion-admininfo.cloudfunctions.net/app
 
 Get-Put: api/trabajadores
 
